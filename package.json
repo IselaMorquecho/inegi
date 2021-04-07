@@ -1,0 +1,23 @@
+{
+  "name": "inegi",
+  "version": "1.0.0",
+  "description": "generador de estados, municipios y localidades",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generateData": "node src/index.js"
+  },
+  "keywords": [
+    "inegi",
+    "json",
+    "estados",
+    "municipios",
+    "localidades"
+  ],
+  "author": "Isela Morquecho <isela.escom@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "fs": "*"
+  }
+}

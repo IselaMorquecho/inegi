@@ -1,0 +1,7 @@
+#dependencies
+/node_modules
+
+#files json
+localidades.json
+estados.json
+municipios.json
